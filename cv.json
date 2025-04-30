@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Steven Coz",
-    "label": "Full Stack Developer",
+    "label": "Senior IT Project Manager / Full Stack Developer",
     "image": "/bitmoji.png",
     "email": "coz.steven@gmail.com",
     "phone": "+33 616680290",
-    "url": "https://stvncz.dev",
-    "summary": "Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "url": "https://www.linkedin.com/in/steven-coz-100978a9",
+    "summary": "Experienced Full Stack Developer and Senior IT Project Manager with a strong background in web technologies and agile methodologies. Over 8 years of expertise leading development teams and delivering scalable, user-centered digital solutions in sectors such as healthcare and insurance. Adept at bridging technical and business needs, with a deep sensitivity to current technological and societal challenges. Actively seeking new projects and teams where I can bring value through leadership, innovation, and collaborative spirit.",
     "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "29200",
+      "postalCode": "",
       "city": "Brest",
       "countryCode": "FR",
       "region": "France"
@@ -30,16 +30,17 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Viveris",
+      "position": "IT Project Manager",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
+      "location": "Lyon, France",
+      "url": "https://www.viveris.fr/",
+      "startDate": "2021-01-01",
+      "endDate": "2024-06-21",
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Led development and maintenance of business-critical applications.",
+        "Managed cross-functional teams and collaborated closely with stakeholders."
       ],
       "responsibilities": [
         "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
@@ -50,124 +51,104 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Java",
+        "AngularJS",
+        "Angular",
+        "VueJS",
+        "Oracle",
+        "PostgreSQL",
+        "Git",
+        "Redmine",
+        "SonarQube"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
+      "name": "AXA France",
+      "position": "IT Business Analyst / Scrum Master",
+      "location": "Paris, France",
+      "location_type": "On site",
+      "startDate": "2018-04-01",
+      "endDate": "2020-12-01",
+      "summary": "Business Analyst for inbound data flows of Guidewire claim management software.",
+      "highlights": [],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Scrum",
+        "Agile",
+        "Guidewire",
+        "Jira"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "JP COLONNA",
+      "position": "Business Analyst",
+      "location": "Paris, France",
+      "location_type": "On site",
+      "startDate": "2017-04-01",
+      "endDate": "2018-04-01",
+      "summary": "Led study phase for digital transformation (extranet redesign and mobile platform).",
       "highlights": [
-        "Completed several client projects successfully"
+        "Participated in workshops, authored business and technical specifications."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Angular"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+      "name": "Agence de la Biomedecine",
+      "position": "Software Engineer",
+      "location": "Paris, France",
+      "location_type": "On site",
+      "startDate": "2016-11-01",
+      "endDate": "2017-04-01",
+      "summary": "Maintained Eurocord information system (post-transplant data tracking).",
+      "skills": [
+        "Java J2EE",
+        "PostgreSQL"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
+      "institution": "Universit\u00e9 de Sherbrooke",
+      "url": "https://www.usherbrooke.ca/",
+      "area": "Electrical and Computer Engineering",
       "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-31"
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "ISEN Brest",
+      "url": "https://isen-ouest.fr/",
+      "area": "General Engineering in Electronics and Digital Technologies",
+      "studyType": "Dipl\u00f4me d'ing\u00e9nieur",
+      "startDate": "2011-09-01",
+      "endDate": "2016-06-30"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "First Certificate in English",
+      "issuer": "Cambridge Assessment English",
+      "url": "https://www.cambridgeenglish.org/fr/exams-and-tests/first/"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Angular",
+      "level": "Intermediate",
       "keywords": [
-        "Design",
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "JavaEE"
       ]
     },
     {
@@ -208,7 +189,7 @@
     },
     {
       "name": "Tailwind",
-      "level": "Intermediate",
+      "level": "Beginnner",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -228,7 +209,7 @@
     },
     {
       "name": "Node",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Backend",
@@ -237,7 +218,7 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "Postgres",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -257,40 +238,23 @@
     },
     {
       "name": "GitHub",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Version Control",
         "Collaboration",
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "French",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
       "language": "Spanish",
@@ -299,18 +263,10 @@
   ],
   "interests": [
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
+      "name": "Green Tech, Social Tech"
     }
   ],
   "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
   ],
   "projects": [
     {
@@ -325,9 +281,9 @@
       "github": "https://github.com"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "name": "Surf Condition App",
+      "isActive": false,
+      "description": "A web application that provides surf conditions for a choosen location.",
       "highlights": [
         "Built with JavaScript and OpenWeatherMap API",
         "Responsive design"
@@ -335,9 +291,9 @@
       "url": "https://weatherapp.com"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "name": "Daily quizz",
+      "isActive": false,
+      "description": "A simple daily quizz in french ((largely inspired by https://quizoftheday.co.uk/)",
       "highlights": [
         "Built with Node.js and MongoDB",
         "User authentication and CRUD operations"
@@ -346,7 +302,7 @@
       "github": "https://github.com"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Cinema",
       "isActive": false,
       "description": "An online store built with Next.js and Stripe for payment processing.",
       "highlights": [
