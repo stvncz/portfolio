@@ -70,7 +70,17 @@
       "startDate": "2018-04-01",
       "endDate": "2020-12-01",
       "summary": "Business Analyst for inbound data flows of Guidewire claim management software.",
-      "highlights": [],
+      "highlights": [
+        "Facilitated the integration of inbound data flows into Guidewire, a major insurance claim management system.",
+        "Operated within an agile organization structured in autonomous squads.",
+        "Acted as a bridge between business stakeholders and development teams to ensure clear communication and effective delivery."
+      ],
+      "responsibilities": [
+        "Analyzed and clarified business needs related to claim intake workflows.",
+        "Collaborated with product owners, developers, and QA within an autonomous squad structure to define user stories and acceptance criteria.",
+        "Led agile ceremonies including sprint planning, daily stand-ups, reviews, and retrospectives.",
+        "Maintained a prioritized and refined product backlog aligned with business goals."
+      ],
       "skills": [
         "Scrum",
         "Agile",
@@ -79,32 +89,57 @@
       ]
     },
     {
-      "name": "JP COLONNA",
-      "position": "Business Analyst",
-      "location": "Paris, France",
+      "name": "JP Colonna",
+      "position": "Business Analyst (Digital Transformation)",
       "location_type": "On site",
+      "location": "Paris, France",
       "startDate": "2017-04-01",
-      "endDate": "2018-04-01",
-      "summary": "Led study phase for digital transformation (extranet redesign and mobile platform).",
+      "endDate": "2018-04-08",
+      "summary": "Contributed to a major digital transformation initiative involving extranet redesign and mobile platform creation for insurance clients, within an agile squad.",
       "highlights": [
-        "Participated in workshops, authored business and technical specifications."
+        "Key contributor to a major digital transformation project.",
+        "Participated in workshops, authored business and technical specifications.",
+        "Supported the end-to-end functional specification process."
       ],
-      "skills": [
-        "Angular"
-      ]
+      "responsibilities": [
+        "Participated in business workshops to gather and refine user needs and expectations.",
+        "Drafted General and Detailed Functional Specifications (GFS & DFS).",
+        "Authored user journey documentation and UAT cases.",
+        "Collaborated closely with UI/UX teams and front-end developers.",
+        "Served as functional liaison for a team of ~5 developers."
+      ],
+      "achievements": [
+        "Delivered comprehensive functional documentation that guided development and testing phases.",
+        "Facilitated effective communication between business and technical teams, reducing delivery cycles.",
+        "Helped build a user-centered product aligned with business goals."
+      ],
+      "skills": ["Agile", "Functional Analysis", "Specification Writing", "Angular", "UX Collaboration"]
     },
     {
-      "name": "Agence de la Biomedecine",
-      "position": "Software Engineer",
-      "location": "Paris, France",
+      "name": "Agence de la Biomédecine",
+      "position": "Software Engineer & Intern",
       "location_type": "On site",
-      "startDate": "2016-11-01",
+      "location": "Paris, France",
+      "startDate": "2016-06-01",
       "endDate": "2017-04-01",
-      "summary": "Maintained Eurocord information system (post-transplant data tracking).",
-      "skills": [
-        "Java J2EE",
-        "PostgreSQL"
-      ]
+      "summary": "Worked on critical healthcare IT systems related to organ donation and post-transplant tracking, in both internship and full-time engineering roles.",
+      "highlights": [
+        "Developed and maintained systems managing sensitive health data.",
+        "Contributed to both frontend and backend development under MVC architecture.",
+        "Operated within a Tierce Maintenance Applicative (TMA) team."
+      ],
+      "responsibilities": [
+        "As a full-time engineer, enhanced and tested the Eurocord system for post-transplant patient follow-up.",
+        "As an intern, helped develop a registration platform for the National Register of Refusals.",
+        "Used Java/J2EE, PostgreSQL, and JavaScript in a full-stack context.",
+        "Collaborated with functional analysts and testers in an agile framework."
+      ],
+      "achievements": [
+        "Improved system stability and compliance for Eurocord.",
+        "Delivered a live production-ready registration module with strong data protection practices.",
+        "Gained experience in regulated healthcare software environments."
+      ],
+      "skills": ["Java", "PostgreSQL", "JavaScript", "MVC", "Healthcare IT", "TMA", "Agile"]
     }
   ],
   "education": [
