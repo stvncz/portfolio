@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://portfolio.stvn.cz/sitemap.xml
+Sitemap: https://portfolio.stvn.cz/sitemap-index.xml
