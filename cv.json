@@ -305,46 +305,15 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "Quiz journalier",
+      "isActive": true,
+      "description": "A self hosted daily quiz application in French, inspired by quizoftheday.co.uk. It allows users to test their knowledge with a new quiz every day.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "API built with Node.js and Express",
+        "Front built with Svelte"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Surf Condition App",
-      "isActive": false,
-      "description": "A web application that provides surf conditions for a choosen location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Daily quizz",
-      "isActive": false,
-      "description": "A simple daily quizz in french ((largely inspired by https://quizoftheday.co.uk/)",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Cinema",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://quiz.stvn.cz",
+      "github": "https://github.com/stvncz"
     }
   ]
 }
